@@ -2,7 +2,7 @@
   "name": "sawp-frontend",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://arjunkandel2000.github.io/Suitability-Analysis-Platform",
+  "homepage": "https://kaditya.github.io/sawp",
   "dependencies": {
     "@testing-library/jest-dom": "^5.11.4",
     "@testing-library/react": "^11.1.0",
